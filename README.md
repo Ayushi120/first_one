@@ -1,2 +1,3 @@
 # first_one
-about html css and things
+This is my very first repository on github.
+Author- Ayushi
